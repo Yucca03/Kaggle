@@ -26,5 +26,5 @@
 ### Algorithm with feature selection
 ##### 1.	Decision tree: 經過特定欄位的選擇，分別跑了前三名、前五名、前十名的Feature去做分析，最後用前三個Feature去跑分數最高，所以我們以最高的Score來當結果。Score：0.23645。
 ##### 2.	Support Vector Machine: 經過特定欄位的選擇，分別跑了前三名、前五名、前十名的Feature去做分析，最後用前三個Feature去跑分數最高，所以我們以最高的Score來當結果。Score：0.17663。
-### 3.	Random forest: 經過特定欄位的選擇，分別跑了前三名、前五名、前十名的Feature去做分析，並且用500棵樹去做Training，最後用前十個Feature去跑分數最高，所以我們以最高的Score來當結果。Score：0.17795。
-### 4.	Linear Regression: 經過特定欄位的選擇，分別跑了前三名、前五名、前十名的Feature去做分析，最後用前三個Feature去跑分數最高，所以我們以最高的Score來當結果。Score：0.17989。
+##### 3.	Random forest: 經過特定欄位的選擇，分別跑了前三名、前五名、前十名的Feature去做分析，並且用500棵樹去做Training，最後用前十個Feature去跑分數最高，所以我們以最高的Score來當結果。Score：0.17795。
+##### 4.	Linear Regression: 經過特定欄位的選擇，分別跑了前三名、前五名、前十名的Feature去做分析，最後用前三個Feature去跑分數最高，所以我們以最高的Score來當結果。Score：0.17989。
